@@ -7,3 +7,5 @@ package cn.haoxin.flume.source;
 public class testone {
 
 }
+
+
